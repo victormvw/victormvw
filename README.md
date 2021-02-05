@@ -1,5 +1,5 @@
 <h1 align="center">Hi dear 👋, I'm Victor Lúcio</h1>
-<h3 align="center">A Web Developer Instructor focused on helping people start programming</h3>
+<h3 align="center">A apprentice focused on learning and who knows how to get a career </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=victormvw" alt="victorlucio" /> </p>
 
 - 🔭 I’m currently working on [Posto Glamuor]
