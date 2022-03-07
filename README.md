@@ -15,11 +15,10 @@
 </p>
 
 <p align="center">
-<a href="https://codepen.io/victor-lucio" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="victorlucio" height="20" width="20" /></a>
 <a href="https://twitter.com/victorlucio99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="victorlucio" height="20" width="20" /></a>
 <a href="https://www.linkedin.com/in/victor-lucio-9501a7145/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="victorlucio" height="20" width="20" /></a>
 <a href="https://www.facebook.com/vituxVitu/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="victorlucio" height="20" width="20" /></a>
-<a href="https://instagram.com/vitu.lucio" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="victorlucio" height="20" width="20" /></a>
+<a href="https://instagram.com/vitu.luciu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="victorlucio" height="20" width="20" /></a>
 </p>
 
 <!--
